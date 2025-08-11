@@ -31,8 +31,15 @@ The dataset contains columns such as:
    ```bash
    git clone https://github.com/yourusername/loan-approval-prediction.git
    cd loan-approval-prediction
+
  2.  Install dependencies:
+
     pip install -r requirements.txt
-3.Run the Jupyter Notebook:
-jupyter notebook "Loan Approval Prediction.ipynb"
+
+ 3.Run the Jupyter Notebook:
+
+   jupyter notebook "Loan Approval Prediction.ipynb"
+
+
+
 
